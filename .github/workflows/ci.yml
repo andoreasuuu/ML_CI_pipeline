@@ -1,4 +1,4 @@
-name: CI
+name: My Little Pony
 on:
   push:
     branches: [main]
